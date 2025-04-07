@@ -1,9 +1,9 @@
 # COVID-19-tracker
-# 🦠 COVID-19 Data Tracker
+#  COVID-19 Data Tracker
 
 This project is a data analysis and visualization dashboard for COVID-19 using real-time data sourced from **Our World in Data (OWID)**. It highlights trends in confirmed cases, deaths, and recoveries across different countries and over time.
 
-## 📌 Project Overview
+## Project Overview
 
 - Extracted and cleaned COVID-19 data using **Pandas**
 - Analyzed global and country-level trends
@@ -12,7 +12,7 @@ This project is a data analysis and visualization dashboard for COVID-19 using r
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 | Tool / Library | Purpose                      |
 |----------------|------------------------------|
@@ -24,7 +24,7 @@ This project is a data analysis and visualization dashboard for COVID-19 using r
 
 ---
 
-## 📊 Key Features
+## Key Features
 
 - Daily case & death trends over time
 - Country-wise comparisons
@@ -33,7 +33,7 @@ This project is a data analysis and visualization dashboard for COVID-19 using r
 
 ---
 
-## 📈 Sample Visualizations
+##  Sample Visualizations
 
 Here are some of the visualizations created:
 
@@ -45,13 +45,13 @@ Here are some of the visualizations created:
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 
 
 ---
 
-## 🧠 Learnings
+##  Learnings
 
 - Cleaned large datasets with missing and inconsistent values
 - Applied real-world data analysis using Python libraries
@@ -60,7 +60,7 @@ Here are some of the visualizations created:
 
 ---
 
-## 💡 Future Work
+## Future Work
 
 - Add interactive dashboards using **Plotly** or **Dash**
 - Automate daily data updates
@@ -68,7 +68,7 @@ Here are some of the visualizations created:
 
 ---
 
-## 🙋‍♀️ About Me
+##  About Me
 
 **Anshika Tiwari**  
 Aspiring Data Analyst | Python & SQL Enthusiast | Power BI Learner  
@@ -77,4 +77,4 @@ Aspiring Data Analyst | Python & SQL Enthusiast | Power BI Learner
 
 ---
 
-⭐ *If you like this project, don’t forget to star it!*
+ *If you like this project, don’t forget to star it!*
